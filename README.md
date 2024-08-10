@@ -1,1 +1,3 @@
 # Enhancing-Network-Intrusion-Detection-System-Using-NDAE-With-Xgboost
+
+This repository hosts the implementation of a hybrid model combining Non-symmetric Deep Auto-Encoders (NDAE) and eXtreme Gradient Boosting (XGBoost) aimed at improving Network Intrusion Detection Systems (NIDS). The project seeks to leverage NDAE's robust feature representation capabilities together with the high classification accuracy of XGBoost to analyze and identify network threats effectively. Utilizing the KDD Cup 99 benchmark dataset, our study demonstrates that while there are some performance limitations, this approach significantly enhances the processing speed and accuracy in categorizing unbalanced data, making it a promising solution for rapid threat detection.
